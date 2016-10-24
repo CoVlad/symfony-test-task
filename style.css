@@ -1,0 +1,50 @@
+#logo {
+    width: 200px;
+}
+
+#title {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#request {
+    text-align: center;
+}
+
+.msg {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 200px;
+}
+
+.sbj {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 150px;
+}
+
+.dt {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 80px;
+}
+
+.from {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100px;
+}
+
+.odd {
+    background-color: lightgray;
+}
+
+#rezt {
+    border: 1px solid #000;
+    margin: 10px auto;
+}
+
+input {
+    margin: 10px;
+}
+
