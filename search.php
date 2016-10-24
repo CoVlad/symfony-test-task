@@ -1,13 +1,13 @@
-<?php
+﻿<?php
 $login=$_POST["log"];
 $password=$_POST["pwd"];
 
 
 
 //define DB
-define('HOST', 'vikamade.mysql.ukraine.com.ua');
+define('HOST', '');
 define('USER', 'vikamade_symfony');
-define('PASSWORD', 'udaxqfpu');
+define('PASSWORD', '');
 define('NAME_BD', 'vikamade_symfony');
 
 //connect to DB
